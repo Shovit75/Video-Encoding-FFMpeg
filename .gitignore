@@ -1,0 +1,21 @@
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.env
+Homestead.yaml
+Homestead.json
+/.idea
+/.vscode
+/public/hot
+/public/mix-manifest.json
+/public/build
+
+# Laravel specific ignores
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs
+
+# FFmpeg related (if applicable)
+# Add any specific FFmpeg config files or directories you want to ignore
